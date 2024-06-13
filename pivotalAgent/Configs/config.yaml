@@ -1,4 +1,6 @@
 OPENAI_API_TYPE: 'openai' #'azure'  OR 'openai'
+
 # for 'openai'
 OPENAI_KEY: '' # your openai key
+
 Google_Map: '' # your googleAPI key

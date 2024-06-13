@@ -1,0 +1,44 @@
+/*
+ * Filename: c:\Users\xyluo25\anaconda3_workspace\001_GitHub\OpenTI\questions.txt
+ * Path: c:\Users\xyluo25\anaconda3_workspace\001_GitHub\OpenTI
+ * Created Date: Wednesday, June 12th 2024, 7:47:51 pm
+ * Author: Mr. Xiangyong Luo
+ *
+ * Copyright (c) 2024 Mr. Xiangyong Luo
+ */
+
+
+1. tell me about yourself
+
+# specific locations
+2. where is Arizona State University
+
+# Show map of interest
+3. Please show me the map of Arizona State University
+
+# Download data
+4. Please download the OpenStreetMap file of the area
+
+# SUMO simulation
+5. Help me run oneClick simulation os SUMO in this area in path: <the osm file path>
+
+# Extract bikeable lanes
+6. I'm wondering about bikeable lane in this area
+
+# Extract railway lane
+7. How about the railway trail
+
+# Extract walkbale area of map
+8. How about the walkable lane in this area
+
+# generate demand file
+9. Please generate the demand file using OSM file of Arizona State University
+
+# DLSim simulation
+10. Please execute the simulation on DLSim platform using the generated demand files at path: <demand folder>
+
+# CityFlow simulation
+11. Please run simulation on Libsignal using simulator cityflow. algorithm fixed time, and episode 6.
+12. Hi Can you run the sumulator on Libsignal using the cityflow environment, DQN policy, and opisode 15?
+13. please analyze the pros and cons of conducting traffic signal control on CityFlow simulator using algorithm deep Q Network and fixedtime control.
+
